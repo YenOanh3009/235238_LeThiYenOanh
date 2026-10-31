@@ -1,0 +1,38 @@
+﻿[
+  {
+    "deviceId": "TB001",
+    "name": "Máy chiếu Sony VPL-EX430",
+    "deviceType": "Máy chiếu",
+    "room": "P.A101",
+    "brand": "Sony",
+    "model": "VPL-EX430",
+    "quantity": 1,
+    "status": "Đang sử dụng",
+    "purchaseDate": "2025-08-15",
+    "description": "Máy chiếu độ phân giải cao phục vụ giảng dạy lý thuyết"
+  },
+  {
+    "deviceId": "TB002",
+    "name": "Máy tính để bàn Dell OptiPlex",
+    "deviceType": "Máy tính",
+    "room": "P.Lab202",
+    "brand": "Dell",
+    "model": "OptiPlex 7090",
+    "quantity": 30,
+    "status": "Đang sử dụng",
+    "purchaseDate": "2025-09-10",
+    "description": "Dàn máy tính thực hành môn Điện toán đám mây"
+  },
+  {
+    "deviceId": "TB003",
+    "name": "Bộ âm thanh trợ giảng TOA",
+    "deviceType": "Thiết bị âm thanh",
+    "room": "P.B305",
+    "brand": "TOA",
+    "model": "WM-5225",
+    "quantity": 2,
+    "status": "Đang sửa chữa",
+    "purchaseDate": "2024-11-20",
+    "description": "Loa và micro không dây hội trường, đang bảo trì micro"
+  }
+]
