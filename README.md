@@ -24,9 +24,10 @@ Hệ thống hỗ trợ quản lý danh sách thiết bị phòng học, theo d�
 ## 5. Hướng dẫn chạy bằng Docker
 *(Cập nhật ở Câu 5 và Câu 6)*
 
-## 6. Thông tin đường dẫn nộp bài
-- **Link_GitHub:** https://github.com/YenOanh3009/235238_LeThiYenOanh
-- **Link_Docker_Backend:** *(Đang cập nhật)*
-- **Link_Docker_Frontend:** *(Đang cập nhật)*
-- **Link_Render_App:** *(Đang cập nhật)*
-- **Link_Render_API:** *(Đang cập nhật)*
+### 6. Thông tin đường dẫn nộp bài
+
+* **Link_GitHub:** https://github.com/YenOanh3009/235238_LeThiYenOanh
+* **Link_Docker_Backend:** https://hub.docker.com/r/banhque/backend
+* **Link_Docker_Frontend:** https://hub.docker.com/r/banhque/frontend
+* **Link_Render_App (Web):** https://web-235238.onrender.com
+* **Link_Render_API:** https://api-235238.onrender.com
